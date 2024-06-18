@@ -46,7 +46,7 @@ The project includes the following components:
 ## Installation
 
 1. **Download the Files:**
-   - Download the ZIP file or from thingyverse.
+   - Download from thingiverse or the "parts" ZIP file.
      ```sh
      git clone https://github.com/yourusername/3d-printed-torsen-differential.git
      ```
