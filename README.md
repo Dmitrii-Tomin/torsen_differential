@@ -7,42 +7,43 @@ This project features a 3D printed model of a Torsen differential, a type of lim
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Components](#components)
-4. [Requirements](#requirements)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgements](#acknowledgements)
+2. [Components](#components)
+3. [Requirements](#requirements)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
 The Torsen differential, also known as a torque-sensing differential, is a type of gear-based limited-slip differential that can automatically distribute torque between the drive wheels. This 3D printed model replicates the internal gearing mechanism, allowing users to visually understand how torque is managed and transferred in real-world applications.
 
-## Features
-
-- **Accurate Representation:** Detailed and accurate model of a Torsen differential.
-- **Educational:** Ideal for teaching and learning purposes.
-- **Interactive:** Allows hands-on exploration of differential mechanics.
-- **Customizable:** The 3D model can be modified to suit different educational needs or demonstrations.
-
 ## Components
 
 The project includes the following components:
 
-- **Main Housing:** The outer casing of the differential.
+- **Main Housing:** The outer casing of the differential with the big bevel gear.
+- **End Cap:** Secure the assembly and provide structural support.
 - **Sun Gears:** Two central gears that connect to the drive shafts.
-- **Planet Gears:** Multiple small gears that distribute torque between the sun gears.
-- **Carrier:** Holds the planet gears in place within the housing.
-- **End Caps:** Secure the assembly and provide structural support.
+- **Planet Gears:** Multiple small worm gears with spur gears at each end that distribute torque between the sun gears.
+- **Bevel Gear:** transports the torque to the differential.
+- **Stand:** Holds the whole assembly.
+- **Stopper:** Holds the bevel gear in place.
+
+- **3 608 bearings** 8x22x7 mm.
+- **3 M4 screws** 15-40 mm in length (recomended countersunk screw minimum 20mm in leangth).
+- **12 M5 screws** 20 mm in leangth (I used one 20mm screw and one 25mm screw for each planet gear).
+- **5 M3 nuts**
+- **5 M3 grub screws** recomended at least 6mm, smaller ones might fall out.
 
 ## Requirements
 
 - **3D Printer:** Capable of printing the required components.
 - **Filament:** PLA, ABS, or any preferred filament material.
+- **Lubricant** Essential, because of the tight tolerances. Without it the operation wont be smooth (I just used WD-40).
+- **Assembly Tools:** Basic tools such as screwdrivers and sandpaper.
 - **3D Modeling Software:** (Optional) For modifying the original design files.
-- **Assembly Tools:** Basic tools such as screwdrivers, sandpaper, and glue.
 
 ## Installation
 
