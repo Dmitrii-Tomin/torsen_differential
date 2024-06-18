@@ -57,14 +57,15 @@ The project includes the following components:
 
 3. **Print the Components:**
    - Print all the parts individually. Ensure each part is printed accurately for proper assembly.
-   - ***IMPORTANT.*** First print a couple of parts to ensure proper tolerances. This was printed on an old printer, so the fit might be too loose.
+   - ***IMPORTANT:*** First print a couple of parts to ensure proper tolerances and adjust the horizontal expansion.
+     This was printed on an old printer, so the fit might be too loose.
 
 4. **Assemble the Model:**
    - Follow the assembly instructions provided in the `assembly_guide.pdf` included in the repository.
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions, improvements, or new features, feel free to fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome! If you have suggestions, improvements, or new features, feel free to fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change. The files for modifying are in a separate folder.
 
 1. Fork the Project.
 2. Create your Feature Branch.
@@ -81,15 +82,11 @@ Contributions are welcome! If you have suggestions, improvements, or new feature
    ```
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
-- Special thanks to the open-source community for the inspiration and resources.
-- [YourName] for the design and development of the 3D model.
-- Contributors and users for their feedback and support.
+- Thanks to [3D Printer Academy](https://www.youtube.com/watch?v=5XnS4gRoK-o) for the idea.
+- [Lesics](https://www.youtube.com/watch?v=JEiSTzK-A2A) for explaining it.
+- And to all Contributors and users for their feedback and support.
 
 ---
 
