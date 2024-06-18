@@ -30,7 +30,7 @@ The project includes the following components:
 - **Bevel Gear:** transports the torque to the differential.
 - **Stand:** Holds the whole assembly.
 - **Stopper:** Holds the bevel gear in place.
-
+-
 - **3 608 bearings** 8x22x7 mm.
 - **3 M4 screws** 15-40 mm in length (recomended countersunk screw minimum 20mm in leangth).
 - **12 M5 screws** 20 mm in leangth (I used one 20mm screw and one 25mm screw for each planet gear).
