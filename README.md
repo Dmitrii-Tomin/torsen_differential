@@ -46,17 +46,18 @@ The project includes the following components:
 ## Installation
 
 1. **Download the Files:**
-   - Clone the repository or download the ZIP file.
+   - Download the ZIP file or from thingyverse.
      ```sh
      git clone https://github.com/yourusername/3d-printed-torsen-differential.git
      ```
 
 2. **Prepare for Printing:**
    - Open the `.stl` files in your preferred slicing software.
-   - Adjust print settings according to your printer and filament specifications.
+   - Adjust print settings according to your printer and filament specifications IMPORTANT.
 
 3. **Print the Components:**
    - Print all the parts individually. Ensure each part is printed accurately for proper assembly.
+   - ***IMPORTANT.*** First print a couple of parts to ensure proper tolerances. This was printed on an old printer, so the fit might be too loose.
 
 4. **Assemble the Model:**
    - Follow the assembly instructions provided in the `assembly_guide.pdf` included in the repository.
