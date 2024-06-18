@@ -10,10 +10,8 @@ This project features a 3D printed model of a Torsen differential, a type of lim
 2. [Components](#components)
 3. [Requirements](#requirements)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgements](#acknowledgements)
+5. [Contributing](#contributing)
+6. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -31,17 +29,17 @@ The project includes the following components:
 - **Stand:** Holds the whole assembly.
 - **Stopper:** Holds the bevel gear in place.
 -
-- **3 608 bearings** 8x22x7 mm.
-- **3 M4 screws** 15-40 mm in length (recomended countersunk screw minimum 20mm in leangth).
-- **12 M5 screws** 20 mm in leangth (I used one 20mm screw and one 25mm screw for each planet gear).
+- **3 608 bearings:** 8x22x7 mm.
+- **3 M4 screws:** 15-40 mm in length (recomended countersunk screw minimum 20mm in leangth).
+- **12 M5 screws:** 20 mm in leangth (I used one 20mm screw and one 25mm screw for each planet gear).
 - **5 M3 nuts**
-- **5 M3 grub screws** recomended at least 6mm, smaller ones might fall out.
+- **5 M3 grub screws:** recomended at least 6mm, smaller ones might fall out.
 
 ## Requirements
 
 - **3D Printer:** Capable of printing the required components.
 - **Filament:** PLA, ABS, or any preferred filament material.
-- **Lubricant** Essential, because of the tight tolerances. Without it the operation wont be smooth (I just used WD-40).
+- **Lubricant:** Essential, because of the tight tolerances. Without it the operation wont be smooth (I just used WD-40).
 - **Assembly Tools:** Basic tools such as screwdrivers and sandpaper.
 - **3D Modeling Software:** (Optional) For modifying the original design files.
 
@@ -62,14 +60,6 @@ The project includes the following components:
 
 4. **Assemble the Model:**
    - Follow the assembly instructions provided in the `assembly_guide.pdf` included in the repository.
-
-## Usage
-
-Once assembled, the 3D printed Torsen differential can be used for:
-
-- **Educational Demonstrations:** Showcasing the mechanics of limited-slip differentials.
-- **Interactive Learning:** Allowing students to disassemble and reassemble to understand the internal workings.
-- **Exhibits:** Displaying in classrooms, labs, or exhibitions related to automotive engineering.
 
 ## Contributing
 
