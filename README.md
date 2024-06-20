@@ -62,7 +62,7 @@ The project includes the following components:
      This was printed on an old printer, so the fit might be too loose.
 
 4. **Assemble the Model:**
-   - Follow the assembly instructions provided in the `assembly_guide.pdf` included in the repository.
+   - Follow the assembly instructions provided in the `assembly_guide_torsen.pdf` included in the repository.
 
 ## Contributing
 
