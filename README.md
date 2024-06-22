@@ -69,6 +69,9 @@ The project includes the following components:
 4. **Assemble the Model:**
    - Follow the assembly instructions provided in the `assembly_guide_torsen.pdf` included in the repository.
 
+5. **Modify:**
+   - If you want to modify something you can download the `Fusion_torsen.f3d` file and do your modifications in Fusion.
+
 ## Acknowledgements
 
 - Thanks to [3D Printer Academy](https://www.youtube.com/watch?v=5XnS4gRoK-o) for the idea.
