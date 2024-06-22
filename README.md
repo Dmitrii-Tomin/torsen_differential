@@ -14,8 +14,7 @@ https://www.youtube.com/shorts/rX831bWPd2U
 2. [Components](#components)
 3. [Requirements](#requirements)
 4. [Installation](#installation)
-5. [Contributing](#contributing)
-6. [Acknowledgements](#acknowledgements)
+5. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -68,25 +67,6 @@ The project includes the following components:
 
 4. **Assemble the Model:**
    - Follow the assembly instructions provided in the `assembly_guide_torsen.pdf` included in the repository.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions, improvements, or new features, feel free to fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change. The files for modifying are in a separate folder.
-
-1. Fork the Project.
-2. Create your Feature Branch.
-   ```sh
-   git checkout -b feature/YourFeature
-   ```
-3. Commit your Changes.
-   ```sh
-   git commit -m 'Add some YourFeature'
-   ```
-4. Push to the Branch.
-   ```sh
-   git push origin feature/YourFeature
-   ```
-5. Open a Pull Request.
 
 ## Acknowledgements
 
