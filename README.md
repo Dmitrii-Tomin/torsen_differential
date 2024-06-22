@@ -48,7 +48,7 @@ The project includes the following components:
 ## Installation
 
 1. **Download the Files:**
-   - Download from thingiverse or the "parts" ZIP file.
+   - Download from thingiverse or the `parts_torsen` ZIP file.
      ```sh
      https://www.thingiverse.com/thing:6671252
      ```
