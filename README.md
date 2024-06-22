@@ -4,6 +4,8 @@
 
 This project features a 3D printed model of a Torsen differential, a type of limited-slip differential used in automotive applications to improve traction. The model is designed for educational purposes, allowing enthusiasts and students to explore the mechanics and functionality of a Torsen differential through a hands-on approach.
 
+https://www.youtube.com/shorts/rX831bWPd2U
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
