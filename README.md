@@ -54,7 +54,7 @@ The project includes the following components:
      ```
 
 2. **Prepare for Printing:**
-   - Open the `.stl` files in your preferred slicing software.
+   - Open the `.stl` or `.3mf` files in your preferred slicing software.
    - Adjust print settings according to your printer and filament specifications IMPORTANT.
 
 3. **Print the Components:**
