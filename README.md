@@ -35,7 +35,7 @@ The project includes the following components:
 - **Wheels:** (optional) to stop the output shafts.
 -
 - **3 608 bearings:** 8x22x7 mm.
-- **3 M4 screws:** 15-40 mm in length (recomended countersunk screw minimum 20mm in leangth).
+- **3 M4 screws:** 15-40 mm in length (recomended flat head screw minimum 20mm in leangth).
 - **12 M5 screws:** 20 mm in leangth (I used one 20mm screw and one 25mm screw for each planet gear).
 - **7 M3 nuts**
 - **7 M3 grub screws:** recomended at least 6mm, smaller ones might fall out.
