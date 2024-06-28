@@ -25,14 +25,14 @@ The Torsen differential, also known as a torque-sensing differential, is a type 
 
 The project includes the following components:
 
-- **Main Housing:** The outer casing of the differential with the big bevel gear.
-- **End Cap:** Secure the assembly and provide structural support.
-- **Sun Gears:** Two central gears that connect to the drive shafts.
-- **Planet Gears:** Multiple small worm gears with spur gears at each end that distribute torque between the sun gears.
-- **Bevel Gear:** transports the torque to the differential.
-- **Stand:** Holds the whole assembly.
-- **Stopper:** Holds the bevel gear in place.
-- **Wheels:** (optional) to stop the output shafts.
+- **1 Main Housing:** The outer casing of the differential with the big bevel gear.
+- **1 End Cap:** Secure the assembly and provide structural support.
+- **2 Sun Gears:** Two central gears that connect to the drive shafts.
+- **6 Planet Gears:** Multiple small worm gears with spur gears at each end that distribute torque between the sun gears.
+- **1 Bevel Gear:** transports the torque to the differential.
+- **1 Stand:** Holds the whole assembly.
+- **1 Stopper:** Holds the bevel gear in place.
+- **2 Wheels:** (optional) to stop the output shafts.
 -
 - **3 608 bearings:** 8x22x7 mm.
 - **3 M4 screws:** 15-40 mm in length (recomended flat head screw minimum 20mm in leangth).
