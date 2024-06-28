@@ -52,9 +52,9 @@ The project includes the following components:
 ## Installation
 
 1. **Download the Files:**
-   - Download from thingiverse or the `parts_torsen` ZIP file.
+   - Download from Printables or the `parts_torsen` ZIP file.
      ```sh
-     https://www.thingiverse.com/thing:6671252
+     https://www.printables.com/model/926631-torsen-differentixal-limited-slip-differential
      ```
 
 2. **Prepare for Printing:**
