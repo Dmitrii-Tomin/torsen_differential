@@ -19,7 +19,7 @@ https://www.youtube.com/shorts/rX831bWPd2U
 
 ## Introduction
 
-The Torsen differential, also known as a torque-sensing differential, is a type of gear-based limited-slip differential that can automatically distribute torque between the drive wheels. This 3D printed model replicates the internal gearing mechanism, allowing users to visually understand how torque is managed and transferred in real-world applications.
+This project features a 3D printed model of a **Torsen differential**, a type of **limited-slip differential** used in automotive applications to improve traction. The model is designed for **educational purposes**, allowing enthusiasts and students to **explore the mechanics and functionality** of a Torsen differential through a hands-on approach. More at: https://github.com/Dmitrii-Tomin/torsen_differential
 
 ## Components
 
