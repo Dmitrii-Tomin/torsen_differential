@@ -48,7 +48,7 @@ The project includes the following components:
 ## Installation
 
 1. **Download the Files:**
-   - Download from Printables or the `parts_torsen` ZIP file.
+   - Download from Printables or the `torsen_differential_parts` ZIP file.
      ```sh
      https://www.printables.com/model/926631-torsen-differentixal-limited-slip-differential
      ```
@@ -63,10 +63,10 @@ The project includes the following components:
      This was printed on an old printer, so the fit might be too loose.
 
 4. **Assemble the Model:**
-   - Follow the assembly instructions provided in the `assembly_guide_torsen.pdf` included in the repository.
+   - Follow the assembly instructions provided in the `torsen_differential_assembly_guide.pdf` included in the repository.
 
 5. **Modify:**
-   - If you want to modify something you can download the `Fusion_torsen.f3d` file and do your modifications in Fusion.
+   - If you want to modify something you can download the `torsen_differential_fusion.f3d` file and do your modifications in Fusion.
 
 ## Acknowledgements
 
