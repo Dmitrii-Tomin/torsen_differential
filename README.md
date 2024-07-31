@@ -31,8 +31,8 @@ The project includes the following components:
 - **2 Wheels:** (optional) to stop the output shafts.
 -
 - **3 608 bearings:** 8x22x7 mm.
-- **3 M4 screws:** 15-40 mm in length (recomended flat head screw minimum 20mm in leangth).
-- **12 M5 screws:** 20 mm in leangth (I used one 20mm screw and one 25mm screw for each planet gear).
+- **3 M4 bolts:** 15-40 mm in length (recomended flat head screw minimum 20mm in leangth).
+- **12 M5 bolts:** 20 mm in leangth (I used one 20mm screw and one 25mm screw for each planet gear).
 - **7 M3 nuts**
 - **7 M3 grub screws:** recomended at least 6mm, smaller ones might fall out.
 - **3 Aluminium rods:** 8 mm in diameter. 85, 75 and 93 mm in leangth (doesn't really matter, but by using this dimentions they will have the perfect leangth and stick out equally)
