@@ -35,7 +35,7 @@ The project includes the following components:
 - **12 M5 bolts:** 20 mm in leangth (I used one 20mm screw and one 25mm screw for each planet gear).
 - **7 M3 nuts**
 - **7 M3 grub screws:** recomended at least 6mm, smaller ones might fall out.
-- **3 Aluminium rods:** 8 mm in diameter. 85, 75 and 93 mm in leangth (doesn't really matter, but by using this dimentions they will have the perfect leangth and stick out equally)
+- **3 Aluminium rods:** 8 mm in diameter. 85, 75 and 93 mm in length (doesn't really matter, but by using this dimentions they will have the perfect leangth and stick out equally)
 
 ## Requirements
 
